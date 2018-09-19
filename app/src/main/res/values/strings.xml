@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad6</string>
+    <string name="button_anim1">Escena 2</string>
+    <string name="button_anim2">Escena 2</string>
+    <string name="text_Titulo">El titulo no se mueve</string>
+    <string name="root_layout">root</string>
+    <string name="layout_1">Text Line Uno</string>
+    <string name="layout_2">Text Line Dos</string>
+    <string name="layout_another">Text Line Another Scene</string>
+</resources>
